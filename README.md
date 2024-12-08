@@ -1,6 +1,6 @@
 # 👋 Welcome to Oussama HAJJIRI's GitHub Profile!
 
-Hi there! I'm **Oussama HAJJIRI**, a passionate and self-taught software engineer with a Bachelor's degree in Applied Computer Science and a specialization in Software Development. Currently, I'm in my second year of the engineering cycle at **Université Mundiapolis** in Casablanca.  
+Hi there! I'm **Oussama HAJJIRI**, a passionate and self-taught software engineer with a Bachelor's degree in Applied Computer Science and a specialization in Software Development. Currently, I'm in my fourth year of the engineering cycle at **Université Mundiapolis** in Casablanca.  
 
 I enjoy working on innovative projects, learning new technologies, and solving challenging problems. Here, you'll find a mix of my academic, personal, and collaborative projects.
 
