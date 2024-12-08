@@ -9,13 +9,15 @@ I enjoy working on innovative projects, learning new technologies, and solving c
 ## 🚀 About Me
 
 ### **🎓 Academic Background**  
-- **Degree**: Bachelor’s in Applied Computer Science  
-- **Current Study**: Engineering cycle (Software Development Specialization)  
-- **Institution**: Université Mundiapolis, Casablanca  
+- **Engineering Cycle (Software Development Specialization)**: Université Mundiapolis, Casablanca  
+  *Expected Completion*: July 2024  
+- **Bachelor’s in Applied Computer Science**: Université Mundiapolis, Casablanca   
+- **High School Diploma**: Lycée Le Savoir, Khouribga (2016)  
 
 ### **👨‍💻 Technical Skills**  
 - **Programming Languages**: JavaScript, C, Java, HTML, CSS, Python  
-- **Frameworks & Technologies**: React, Angular, Spring MVC, Spring Boot, NestJS, Node.js, JEE Architecture  
+- **Frameworks & Technologies**: React, Angular, Spring MVC, Spring Boot, NestJS, Node.js, JEE Architecture, Shadcn UI  
+- **Mobile Development**: Flutter  
 - **Database Technologies**: SQL, iSQL, MongoDB, Oracle (administration included)  
 - **DevOps & Containerization**: Docker, Docker Compose  
 - **Tools & Platforms**: Streamlit, Android Studio, Figma, Photoshop, Illustrator, VMware  
@@ -31,42 +33,47 @@ I enjoy working on innovative projects, learning new technologies, and solving c
 
 ## 🛠️ Projects Highlight  
 
-### **🎮 Game App**: *Le Compte Est Bon & Le Mot Le Plus Long*  
-- A fun and challenging game app designed with simplicity and professionalism.  
+### **Academic Projects**  
+- **Patient and Medication Management Platform**:  
+  A centralized platform for effective management of patients and medications, categorized and organized. *(Koa.js, React.js, Node.js, Shadcn UI, MongoDB)*  
 
-### **♻️ Mobile App**: *Recycling Helper*  
-- A mobile app dedicated to aiding recycling efforts with an intuitive and user-friendly interface.
+- **Real Estate Portfolio Management App**:  
+  A web application for property owners to manage their portfolios, tenants, and rental agreements seamlessly through an intuitive interface. *(Express.js, React.js, Node.js)*  
 
-### **📊 Data Visualization App**  
-- Built using Python and Streamlit to upload and analyze Excel files, providing statistical insights and dynamic visualizations.  
+- **Inspirational Quotes Sharing Platform**:  
+  A community-driven social media platform for discovering and sharing meaningful quotes. *(Spring Boot, Java, React.js)*  
 
-### **🌐 Node.js Express Framework Tool**  
-- Developed a tool to generate structured and professional reports from Node.js Express codebases.  
+### **Professional Projects**  
+- **Patient Management Application**:  
+  Developed as part of a final-year project to facilitate the efficient management of patient records. *(React, KoaJs ,shadcn ui)*  
+
+- **Recycling Helper Mobile App design**:  
+  A mobile app dedicated to aiding recycling efforts with an intuitive and user-friendly interface.  
+
+- **Node.js Express Framework Tool**:  
+  Developed a tool to generate structured and professional reports from Node.js Express codebases.  
+
+### **Others**  
+- Designed user-friendly interfaces using **Figma**, **Photoshop**, and **Illustrator** for various applications.  
 
 ---
 
-## 📈 Stats & Contributions  
-Feel free to explore my repositories for projects ranging from **IoT** to **full-stack development**. I'm open to collaborating on impactful projects and sharing knowledge with the community.
+## 🏅 Certifications  
+- **EF SET English Certificate (58/100 - B2 Upper Intermediate)**  
+- Strong proficiency in **French** and **Arabic** (Native).  
 
 ---
 
 ## 📫 Get in Touch  
 
-- **Email**: [your email address here]  
-- **LinkedIn**: [your LinkedIn profile here]  
-- **GitHub**: [your GitHub profile link here]  
+- **Email**: hajjirioussama32@gmail.com  
+- **Phone**: +212 657 768 563  
 
-<!--
-**HAJJIRI-OUSSAMA/HAJJIRI-OUSSAMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to connect with me or explore my repositories for projects . I'm always open to collaborating on impactful projects and sharing knowledge with the community.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests  
+- Basketball 🏀  
+- Tennis 🎾  
+- Photography 📸  
