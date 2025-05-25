@@ -2,7 +2,7 @@
 
 <div align="center">
   <img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-       alt="snake" /></a>
+       alt="snake" />
 </div>
 
 Hi there! I'm **Oussama HAJJIRI**, a passionate and self-taught software engineer with a Bachelor's degree in Applied Computer Science and a specialization in Software Development. Currently, I'm in my fourth year of the engineering cycle at **Université Mundiapolis** in Casablanca.  
