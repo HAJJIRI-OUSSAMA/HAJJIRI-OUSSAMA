@@ -1,126 +1,127 @@
-# 👋 Hi, I'm Oussama HAJJIRI
-
-### Software Engineer | Full-Stack Development & Applied AI
-
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-  />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Oussama HAJJIRI. Software engineer in Casablanca, Morocco. Full stack development and applied AI." />
+
+  <p>
+    <a href="https://hajjiri-oussama.vercel.app/"><strong>Explore my portfolio ↗</strong></a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="mailto:hajjirioussama111@gmail.com"><strong>Get in touch ↗</strong></a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="#selected-work"><strong>Selected work ↓</strong></a>
+  </p>
 </div>
 
-I'm a software engineer based in **Casablanca, Morocco**, and a graduate of **Université Mundiapolis**, where I completed my engineering degree in July 2026.
+# Hi, I'm Oussama HAJJIRI
 
-I build web applications with **React, TypeScript and Node.js**, develop backend projects with **Java and Spring Boot**, and explore practical uses of **Python and generative AI**.
+I'm a software engineer based in **Casablanca, Morocco**. I build web applications with **React, TypeScript and Node.js**, develop backend projects with **Java and Spring Boot**, and work on practical applications of **Python and generative AI**.
 
-During my final-year internship at **AKKODIS**, I independently designed and developed **Face.in**, taking it from architecture to production for **22 users**. My work covered application development, real-time features, authentication and access control.
+I like understanding a problem before changing the code. My projects have taught me to take responsibility for the whole application, from its first screens to its data model and access controls. I also enjoy learning from other developers through code reviews and open discussion.
 
-I enjoy understanding how things work, solving technical problems and learning through building. I also value teamwork, thoughtful code reviews and clear communication.
+**Open to software engineering opportunities and collaboration.**
 
-## 🛠️ Technical Skills
+## Selected work
 
-### Languages
-JavaScript, TypeScript, Java, Python, SQL, C, HTML and CSS.
+### Face.in
 
-### Frontend
-React, Next.js, Angular, Vite, Tailwind CSS and shadcn/ui.
+**Attendance management through facial recognition.** Built independently during my final year internship at **AKKODIS**, from architecture to production, and deployed for **22 users**.
 
-### Backend
-Node.js, Express, NestJS, Koa.js, FastAPI, Spring Boot, Spring Cloud, Spring Security, Spring MVC, JPA, REST APIs and WebSocket.
+* Developed a real time dashboard and permissions for **four user roles** in a multi tenant application.
+* Integrated **Azure AD authentication** and **PostgreSQL Row Level Security** policies.
+* Identified and fixed a privilege escalation vulnerability in the invitation flow.
 
-### Databases
-PostgreSQL, MySQL, MongoDB, Oracle, Supabase and pgvector.
+`React` `TypeScript` `Supabase` `PostgreSQL` `Deno Edge Functions` `face-api.js`
 
-### AI & Document Processing
-LangChain, AutoGen, retrieval-augmented generation (RAG), multi-agent orchestration, document extraction, vectorization and context retrieval.
+### FromScratch.ai
 
-### Application Security
-OAuth 2.0, Azure AD, JWT, role-based access control (RBAC) and PostgreSQL Row Level Security (RLS).
+**From an idea to a first project plan.** An application that generates draft requirements, architecture proposals, user stories and cost estimates. I orchestrated multiple AI agents to produce these structured deliverables.
 
-### Development Tools & Practices
-Git, GitHub, Docker, Docker Compose, Vercel, Agile teamwork and code reviews.
+`Next.js` `Python` `FastAPI` `LangChain` `AutoGen`
 
-### Additional Technologies
-- **Mobile:** Flutter and Android Studio.
-- **IoT:** ESP32, Arduino IDE and Node-RED.
-- **Prototyping and design:** Figma, Photoshop and Illustrator.
-- **Other tools:** Streamlit and VMware.
+### Document Analyzer
 
-## 💻 Selected Projects
+**Questions answered with context from documents.** A RAG application that extracts and vectorizes document content, retrieves relevant passages and uses them to support its answers.
 
-### Face.in | Attendance Management Platform
-A multi-tenant application for attendance management through facial recognition, developed independently during my internship at AKKODIS and deployed for 22 users.
+`Python` `LangChain` `pgvector`
 
-- Built a real-time dashboard and access controls for four user roles.
-- Integrated Azure AD authentication and PostgreSQL RLS policies.
-- Identified and fixed a privilege escalation vulnerability in the invitation flow.
+<details>
+<summary><strong>More projects: access control and Java microservices</strong></summary>
 
-**Technologies:** React, TypeScript, Supabase, PostgreSQL, Edge Functions (Deno) and face-api.js.
+### ENTRIX
 
-### FromScratch.ai | AI-Assisted Project Planning
-An application that turns an idea into draft requirements, architecture proposals, user stories and cost estimates.
+A full stack access control system combining RFID access, remote check in, role based permissions and real time event monitoring.
 
-- Orchestrated multiple agents to generate structured project deliverables.
+`React` `Node.js` `PostgreSQL` `WebSocket`
 
-**Technologies:** Next.js, Python, FastAPI, LangChain and AutoGen.
+### Student Management System
 
-### Document Analyzer | RAG Application
-A document question-answering application that retrieves relevant passages to support source-grounded answers.
+A Java microservices project covering students, teachers, academic programs and classes, with centralized security and database persistence.
 
-- Implemented document extraction, vectorization and context retrieval.
+`Java` `Spring Boot` `Spring Cloud` `Spring Security` `JPA` `MySQL` `Docker`
 
-**Technologies:** Python, LangChain and pgvector.
+</details>
 
-### ENTRIX | Access Control System
-A full-stack application combining RFID access, remote check-in, role-based permissions and real-time event monitoring.
+## My toolbox
 
-**Technologies:** React, Node.js, PostgreSQL and WebSocket.
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript, TypeScript, Java, Python, SQL, C, HTML, CSS |
+| **Frontend** | React, Next.js, Angular, Vite, Tailwind CSS, shadcn/ui |
+| **Backend & APIs** | Node.js, Express, NestJS, Koa.js, FastAPI, REST APIs, WebSocket |
+| **Java ecosystem** | Spring Boot, Spring Cloud, Spring Security, Spring MVC, JPA |
+| **Data** | PostgreSQL, MySQL, MongoDB, Oracle, Supabase, pgvector |
+| **Applied AI** | LangChain, AutoGen, RAG, agent orchestration, document extraction, vectorization, context retrieval |
+| **Security** | OAuth 2.0, Azure AD, JWT, role based access control, PostgreSQL RLS |
+| **Delivery & teamwork** | Git, GitHub, Docker, Docker Compose, Vercel, Agile teamwork, code reviews |
 
-### Student Management System | Java Microservices
-A microservices project covering students, teachers, academic programs and classes, with centralized security and database persistence.
+<details>
+<summary><strong>Mobile, IoT and other tools I've worked with</strong></summary>
 
-**Technologies:** Java, Spring Boot, Spring Cloud, Spring Security, JPA, MySQL and Docker.
+* **Mobile:** Flutter, Android Studio.
+* **IoT:** ESP32, Arduino IDE, Node-RED.
+* **Design:** Figma, Photoshop, Illustrator.
+* **Other tools:** Streamlit, VMware.
 
-## 💼 Experience
+</details>
 
-- **AKKODIS | Software Engineering Intern, Final-Year Project**  
-  February 2026 - August 2026  
-  Designed, developed and deployed Face.in.
+## Experience
 
-- **TYTHON | Software Engineering Intern**  
-  March 2025 - June 2025  
-  Implemented access controls and resolved application defects within an Agile team using Git and code reviews.
+**AKKODIS · Software Engineering Intern**  
+February 2026 to August 2026 · Final year project  
+Designed, developed and deployed Face.in independently.
 
-- **TWICE BOX | Full-Stack Developer**  
-  May 2024 - July 2024  
-  Developed a patient management application used by more than 50 users and deployed it with Docker.  
-  **Stack:** React, Node.js/Koa.js and MongoDB.
+**TYTHON · Software Engineering Intern**  
+March 2025 to June 2025  
+Implemented access controls and resolved application defects within an Agile team using Git and code reviews.
 
-## 🎓 Education
+**TWICE BOX · Full Stack Developer**  
+May 2024 to July 2024  
+Built a patient management application used by **more than 50 users** and deployed it with Docker. Stack: React, Node.js, Koa.js and MongoDB.
 
-- **Engineering Degree in Computer Science**  
-  Université Mundiapolis, Casablanca | 2024 - 2026  
-  Graduated in July 2026.
+## Education & languages
 
-- **Bachelor's Degree in Applied Computer Science**  
-  Université Mundiapolis, Casablanca | 2021 - 2024.
+**Engineering Degree in Computer Science**  
+Université Mundiapolis, Casablanca · 2024 to 2026 · Graduated in July 2026.
 
-- **Studies in Economics and Management**  
-  Université Sultan Moulay Slimane, Khouribga | 2017 - 2020.
+**Bachelor's Degree in Applied Computer Science**  
+Université Mundiapolis, Casablanca · 2021 to 2024.
 
-## 🌍 Languages & Certification
+<details>
+<summary>Earlier studies</summary>
 
-- **Arabic:** Native.
-- **French:** Fluent.
-- **English:** EF SET Certificate, 58/100, B2 Upper Intermediate.
+Studies in Economics and Management, Université Sultan Moulay Slimane, Khouribga · 2017 to 2020.
 
-## 📫 Get in Touch
+</details>
 
-- **Portfolio:** [hajjiri-oussama.vercel.app](https://hajjiri-oussama.vercel.app/)
-- **Email:** [hajjirioussama111@gmail.com](mailto:hajjirioussama111@gmail.com)
+**Arabic:** Native &nbsp;·&nbsp; **French:** Fluent &nbsp;·&nbsp; **English:** B2, EF SET 58/100.
 
-I'm open to software engineering opportunities and collaboration on web applications, backend systems and applied AI projects.
-
-## 🏀 Outside of Coding
+## Beyond the keyboard
 
 Basketball, tennis and photography.
+
+<div align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Decorative snake animation from the Platane/snk demo, not my personal contribution history." />
+  <br />
+  <strong>Have a project or an opportunity in mind?</strong>
+  <br />
+  <a href="mailto:hajjirioussama111@gmail.com">hajjirioussama111@gmail.com</a>
+</div>
