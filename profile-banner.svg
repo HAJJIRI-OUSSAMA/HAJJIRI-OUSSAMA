@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Oussama HAJJIRI | Software Engineer</title>
+  <desc id="desc">Full stack development and applied AI. Casablanca, Morocco. Open to opportunities. A subtle animated diagram connects interfaces, APIs and data.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0c1626"/>
+      <stop offset="1" stop-color="#111f30"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#6ee7c2"/>
+      <stop offset="1" stop-color="#72b9ff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8eacc7" stroke-opacity=".055"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="350" rx="24"/></clipPath>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; }
+      .travel { stroke-dasharray: 9 99; animation: flow 7s linear infinite; }
+      .node { animation: breathe 9s ease-in-out infinite; }
+      .second { animation-delay: 3s; }
+      .third { animation-delay: 6s; }
+      @keyframes flow { to { stroke-dashoffset: -216; } }
+      @keyframes breathe { 0%, 20%, 100% { stroke-opacity: .25; } 10% { stroke-opacity: .9; } }
+      @media (prefers-reduced-motion: reduce) { .travel, .node { animation: none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="350" fill="url(#background)"/>
+    <rect x="745" width="455" height="350" fill="url(#grid)"/>
+    <path d="M60 0H1140" stroke="url(#accent)" stroke-width="4"/>
+    <circle cx="1100" cy="25" r="190" fill="#65dec2" fill-opacity=".025"/>
+    <circle cx="1128" cy="328" r="176" fill="#72b9ff" fill-opacity=".025"/>
+    <rect x=".5" y=".5" width="1199" height="349" rx="24" fill="none" stroke="#27384c"/>
+
+    <path d="M60 67H86" stroke="#6ee7c2" stroke-width="3" stroke-linecap="round"/>
+    <text x="101" y="73" font-size="15" letter-spacing="3" font-weight="600" fill="#9db2c9">SOFTWARE ENGINEER</text>
+    <text x="57" y="151" font-size="63" letter-spacing="-2.3" font-weight="700" fill="#eff5ff">Oussama HAJJIRI</text>
+    <text x="60" y="199" font-size="25" fill="#afc1d5">Full stack development &amp; applied AI</text>
+    <path d="M60 234H708" stroke="#26384b"/>
+
+    <g transform="translate(61 265)" fill="none" stroke="#8ea5bd" stroke-width="1.7">
+      <path d="M7 0a7 7 0 0 0-7 7c0 5 7 12 7 12s7-7 7-12a7 7 0 0 0-7-7Z"/>
+      <circle cx="7" cy="7" r="2.2"/>
+    </g>
+    <text x="86" y="280" font-size="17" fill="#a9bed3">Casablanca, Morocco</text>
+    <rect x="330" y="256" width="238" height="35" rx="17.5" fill="#6ee7c2" fill-opacity=".08" stroke="#6ee7c2" stroke-opacity=".18"/>
+    <circle cx="349" cy="273.5" r="3.5" fill="#6ee7c2"/>
+    <text x="363" y="279" font-size="15" font-weight="500" fill="#9fe8d2">Open to opportunities</text>
+
+    <text x="829" y="75" font-size="12" letter-spacing="2.4" font-weight="600" fill="#8ea5bd">IDEA TO APPLICATION</text>
+    <path d="M833 129V266" stroke="#344b61" stroke-width="2" fill="none"/>
+    <path class="travel" d="M833 129V266" stroke="#6ee7c2" stroke-width="2" fill="none"/>
+
+    <rect class="node" x="863" y="98" width="270" height="55" rx="10" fill="#122437" stroke="#6ee7c2" stroke-opacity=".25"/>
+    <path d="M833 125H863" stroke="#3e5b70"/>
+    <circle cx="833" cy="125" r="5" fill="#101e2e" stroke="#6ee7c2" stroke-width="2"/>
+    <text x="882" y="122" font-size="11" letter-spacing="1.5" fill="#7d96ae">INTERFACES</text>
+    <text x="882" y="142" font-size="16" font-weight="500" fill="#d8e7f5">React · TypeScript</text>
+
+    <rect class="node second" x="863" y="168" width="270" height="55" rx="10" fill="#122437" stroke="#82c3ff" stroke-opacity=".25"/>
+    <path d="M833 195H863" stroke="#3e5b70"/>
+    <circle cx="833" cy="195" r="5" fill="#101e2e" stroke="#82c3ff" stroke-width="2"/>
+    <text x="882" y="192" font-size="11" letter-spacing="1.5" fill="#7d96ae">APIs &amp; SERVICES</text>
+    <text x="882" y="212" font-size="16" font-weight="500" fill="#d8e7f5">Node.js · Java</text>
+
+    <rect class="node third" x="863" y="238" width="270" height="55" rx="10" fill="#122437" stroke="#b5adfa" stroke-opacity=".25"/>
+    <path d="M833 265H863" stroke="#3e5b70"/>
+    <circle cx="833" cy="265" r="5" fill="#101e2e" stroke="#b5adfa" stroke-width="2"/>
+    <text x="882" y="262" font-size="11" letter-spacing="1.5" fill="#7d96ae">DATA &amp; APPLIED AI</text>
+    <text x="882" y="282" font-size="16" font-weight="500" fill="#d8e7f5">Python · PostgreSQL · RAG</text>
+  </g>
+</svg>
