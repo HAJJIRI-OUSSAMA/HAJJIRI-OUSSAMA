@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Oussama HAJJIRI. Software engineer in Casablanca, Morocco. Full stack development and applied AI." />
+  <img src="./profile-banner.svg" width="100%" alt="Oussama HAJJIRI. Software engineer in Casablanca, Morocco. Full stack development and applied AI." />
 
   <p>
     <a href="https://hajjiri-oussama.vercel.app/"><strong>Explore my portfolio ↗</strong></a>
